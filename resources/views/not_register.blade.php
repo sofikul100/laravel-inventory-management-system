@@ -1,0 +1,1 @@
+<h1 style="color:red">Sorry . You can't register without admin permission !!! </h1>
